@@ -1,2 +1,2 @@
-# SH-Capstone-1-Fylo
-Side Hustle Capstone project 1/Fylo
+Zuri Task
+About me, Michael Tobechukwu Nwokike.
